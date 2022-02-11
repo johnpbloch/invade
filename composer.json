@@ -22,5 +22,8 @@
         "psr-4": {
             "JohnPBloch\\Invade\\": "./tests/src"
         }
+    },
+    "scripts": {
+        "test": "phpunit --coverage-text"
     }
 }
