@@ -1,0 +1,16 @@
+{
+    "name": "johnpbloch/invade",
+    "description": "A copy of the invade function from Livewire",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John P. Bloch",
+            "email": "johnpbloch@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["invade.php"]
+    }
+}
