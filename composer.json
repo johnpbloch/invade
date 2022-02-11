@@ -17,5 +17,10 @@
     },
     "autoload": {
         "files": ["invade.php"]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JohnPBloch\\Invade\\": "./tests/src"
+        }
     }
 }
